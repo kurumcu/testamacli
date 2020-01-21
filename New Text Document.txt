@@ -1,0 +1,18 @@
+Generator:
+General Credit Cards
+Issuing network:
+Visa
+Card number:
+4792 3657 6517 3258
+Pin:
+3305
+Name:
+Mustafa Agrap
+Address:
+Hobday Street 4945
+Country:
+Netherlands
+CVV:
+781
+Expiration date:
+2 / 2023
